@@ -1,0 +1,12 @@
+{
+  "name": "todo-too-mobile",
+  "displayName": "todo-too-mobile",
+  "expo": {
+    "name": "todo-too-mobile",
+    "slug": "todo-too-mobile",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
